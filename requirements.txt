@@ -1,0 +1,6 @@
+ultralytics
+numpy
+fastapi
+uvicorn
+requests
+paho-mqtt
